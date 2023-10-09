@@ -1,0 +1,16 @@
+{
+  "name": "shopping-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scriptstore.js",
+  "scripts": {
+    "start": "parcel index.html team.html store.html",
+    "build": "parcel build index.html team.html store.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
